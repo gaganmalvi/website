@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Gagan Malvi"
+theme = "papermod"
+
+[params.profileMode]
+enabled = true
+title = "Gagan Malvi"
+subtitle = "Platform Developer"
+imageUrl = "https://avatars.githubusercontent.com/u/26477157"
+imageTitle = "Gagan Malvi"
+imageWidth = 160
+
+imageHeight = 160
+
+  [[params.profileMode.buttons]]
+  name = "Posts"
+  url = "/posts"
+
+  [[params.profileMode.buttons]]
+  name = "Resume"
+  url = "/resume.pdf"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/gaganmalvi"
+
+[[params.socialIcons]]
+name = "Instagram"
+url = "https://instagram.com/gaganmalvi"
+
+[[params.socialIcons]]
+name = "Linkedin"
+url = "https://linkedin.com/in/gaganmalvi"
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://twitter.com/gmlvi"
+
+[[params.socialIcons]]
+name = "Telegram"
+url = "https://t.me/gaganmalvi"
