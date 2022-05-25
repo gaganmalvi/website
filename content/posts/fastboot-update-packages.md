@@ -20,6 +20,7 @@ This update package consists of the following contents:
 - `system_ext.img`: The system_ext image, if it exists (only on devices launched with Android 11, usually missing on MediaTek devices on 11)
 - `system_other.img`: An optional system image to extend the stock system partition
 - `vendor.img`: The vendor image
+- `vendor_boot.img`: The vendor boot image, containing vendor-specific bits of the boot image, in order to maintain GKI compatibility
 - `vendor_dlkm.img`: An extended vendor image that contains only the DLKM modules
 - `vendor_other.img`: An optional vendor image to extend the stock vendor partition
 - `odm.img`: The ODM image
