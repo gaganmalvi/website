@@ -34,6 +34,10 @@ name = "Linkedin"
 url = "https://linkedin.com/in/gaganmalvi"
 
 [[params.socialIcons]]
+name = "email"
+url = "mailto:malvigagan@gmail.com"
+
+[[params.socialIcons]]
 name = "Twitter"
 url = "https://twitter.com/malviscape"
 
